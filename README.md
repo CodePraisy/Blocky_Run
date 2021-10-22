@@ -1,6 +1,6 @@
 # Blocky_Run-v0.0.0.3
 
-The github version of Blocky Run! This is pretty much where all the beta versions of Blocky Run will go until I release the full version on steam.
+This is the github version of Blocky Run! This is pretty much where all the beta versions of Blocky Run will go until I release the full version on steam.
 
 To download the game, click on the green "Code" button and then click "Download ZIP". Once you've done that, right click the downloaded file and click "Extract". Once it's finished, go to the folder it just made and click the file called "Blocky Run!". Then the game should start running! 
 
