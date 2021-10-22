@@ -1,13 +1,8 @@
-# Blocky_Run-v0.0.0.3
+# Blocky_Run-v0.0.0.4
 
 ## Update
 
-- Added a reset button to the pause menu.
-- Added the use of arrow keys to control character.
-- Added a reset button at the end of the game to reset progress.
-- Added version tag to menu and pause menu
-
-This update was just some more bug fixes and stuff like that.
+- Fixed the Level Complete Sence
 
 (Expect the next update to be big, since i've just finished with all the main bugs I've wanted to fix.)
 
